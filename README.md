@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning fullstack web development
+I am frontend developer currently working on React.js and Next.js projects in industry and learning fullstack web development
 
 
 # 💻 Tech Stack:
